@@ -1,0 +1,19 @@
+{
+    "product":[
+        {
+            "_id": "639dd4ad525862d5b2149cee",
+            "category": "skin care",
+            "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
+            "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg",
+            "expire": "NOV 2024",
+            "price": 695,
+            "discountPrice": 646,
+            "inStock": true,
+            "createdAt": "2022-12-17T14:39:41.826Z",
+            "updatedAt": "2022-12-17T14:39:41.826Z",
+            "__v": 0
+          }
+    ],
+
+    "users":[]
+}
