@@ -3,7 +3,9 @@
         
     ],
 
-    "todos":[]
+    "todos":[
+        {"id":1,"status":false,"todoText":"eating"}
+    ]
 
     
 }
